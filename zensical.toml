@@ -1,0 +1,150 @@
+[project]
+nav = [
+    { "/1ndex" = "index.md" },
+
+    { "Skye" = [
+        "nya/2026.md",
+    ] },
+
+    { "Photo" = "https://photo.skyhigh.moe" },
+
+]
+
+
+site_name = "SkyHigh"
+site_url = "https://skyhigh.moe"
+site_description = "SkyHigh'Log..."
+site_author = "SkyHigh"
+docs_dir = "docs"
+dev_addr = "localhost:418"
+repo_name = "喵喵喵"
+repo_url = "https://github.com/U2t5SGlnaA/sky-"
+edit_uri = "edit/main/docs/"
+copyright = "Licensed under <a href='https://creativecommons.org/licenses/by-nc-nd/4.0' target='_blank'>CC BY-NC-ND 4.0</a>.<br><a href='https://icp.gov.moe/?keyword=20241127' target='_blank'>Moe ICP 20241127</a>."
+extra_css = ["stylesheets/extra.css", "stylesheets/essential_audio.css"]
+extra_javascript = ["javascripts/extra.js", "javascripts/essential_audio.js"]
+
+[project.extra]
+homepage = "https://skyhigh.moe"
+
+[project.extra.status]
+new = "Recently added"
+deprecated = "Deprecated"
+
+[project.theme]
+logo = "assets/img/avatar.avif"
+favicon = "assets/img/favicon.png"
+font = false
+language = "zh"
+custom_dir = "overrides"
+
+features = [
+    #"navigation.instant",
+    #"navigation.instant.progress",
+    #"navigation.instant.prefetch",
+    "navigation.top",
+    "navigation.tabs",
+    "navigation.tabs.sticky",
+    "navigation.path",
+    #"navigation.expand",
+    "navigation.prune",
+    "navigation.sections",
+    "navigation.tracking",
+    "navigation.footer",
+    "toc.follow",
+    "search.highlight",
+    "content.action.edit",
+    "content.action.view",
+    "content.code.copy",
+    "content.footnote.tooltips",
+    "content.tooltips",
+]
+
+[project.theme.icon]
+edit = "material/file-edit"
+view = "material/archive-eye"
+repo = "fontawesome/brands/git"
+top = "fontawesome/solid/location-arrow"
+previous = "fontawesome/solid/backward"
+next = "fontawesome/solid/forward"
+
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "light blue"
+accent = "cyan"
+toggle.icon = "lucide/sun"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "blue"
+accent = "cyan"
+toggle.icon = "lucide/moon"
+
+
+# 文本格式化
+[project.markdown_extensions.pymdownx.caret]
+[project.markdown_extensions.pymdownx.mark]
+[project.markdown_extensions.pymdownx.tilde]
+[project.markdown_extensions.pymdownx.keys]
+[project.markdown_extensions.pymdownx.smartsymbols]
+
+# 代码高亮
+[project.markdown_extensions.pymdownx.highlight]
+linenums = true
+linenums_style = "pymdownx-inline"
+auto_title = true
+anchor_linenums = true
+line_spans = "__span"
+pygments_lang_class = true
+[project.markdown_extensions.pymdownx.inlinehilite]
+[project.markdown_extensions.pymdownx.snippets]
+[project.markdown_extensions.pymdownx.superfences]
+
+# 内容块
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.blocks.caption]
+
+# 选项卡
+[project.markdown_extensions.pymdownx.tabbed]
+alternate_style = true
+[project.markdown_extensions.pymdownx.tabbed.slugify]
+object = "pymdownx.slugs.slugify"
+kwds = { case = "lower" }
+
+# 列表和表格
+[project.markdown_extensions.tables]
+[project.markdown_extensions.def_list]
+[project.markdown_extensions.pymdownx.tasklist]
+custom_checkbox = true
+
+# HTML 和属性
+[project.markdown_extensions.attr_list]
+[project.markdown_extensions.md_in_html]
+
+# 其他
+[project.markdown_extensions.footnotes]
+[project.markdown_extensions.abbr]
+[project.markdown_extensions.pymdownx.emoji]
+emoji_index = "zensical.extensions.emoji.twemoji"
+emoji_generator = "zensical.extensions.emoji.to_svg"
+[project.markdown_extensions.toc]
+permalink = "⚓︎"
+permalink_title = "Links"
+[project.markdown_extensions.toc.slugify]
+function = "pymdownx.slugs.slugify"
+kwds = { case = "lower" }
+
+
+[[project.extra.social]]
+icon = "fontawesome/brands/telegram"
+link = "https://t.me/HTTeapot"
+[[project.extra.social]]
+icon = "fontawesome/brands/twitter"
+link = "https://x.com/moeSkyHigh"
+[[project.extra.social]]
+icon = "fontawesome/brands/steam"
+link = "https://steamcommunity.com/id/moeSkyHigh"

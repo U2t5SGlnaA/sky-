@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block htmltitle %}
+<title>404 ·  Error</title>
+{% endblock %}
+
+{% block content %}
+<section class="md-container"
+         style="max-width: 720px; margin: 4.5rem auto;">
+
+  <pre style="
+    background: var(--md-code-bg-color);
+    padding: 1.25rem 1.5rem;
+    border-radius: 6px;
+    overflow-x: auto;
+    font-size: 0.85rem;
+    line-height: 1.6;
+  ">
+<span style="color:#e5533d;">error</span>: Failed to found page
+
+  → Reason: Operator "Skye"
+
+<span style="opacity:.55;">Solution</span>: Let's have tea together
+  </pre>
+
+  <div style="margin-top: 1.75rem; text-align: right;">
+    <a href="{{ config.site_url | default('/') }}"
+       style="
+         font-size: 0.85rem;
+         text-decoration: none;
+         border-bottom: 1px solid currentColor;
+         padding-bottom: 2px;
+       ">
+      Return to /1index
+    </a>
+  </div>
+
+</section>
+{% endblock %}

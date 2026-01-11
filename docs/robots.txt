@@ -1,0 +1,30 @@
+# --------------- ROBOTS.TXT ---------------
+
+User-agent: *
+Disallow:
+
+#                                                                                                                                           
+#    SSSSSSSSSSSSSSS kkkkkkkk                                         HHHHHHHHH     HHHHHHHHH  iiii                     hhhhhhh             
+#  SS:::::::::::::::Sk::::::k                                         H:::::::H     H:::::::H i::::i                    h:::::h             
+# S:::::SSSSSS::::::Sk::::::k                                         H:::::::H     H:::::::H  iiii                     h:::::h             
+# S:::::S     SSSSSSSk::::::k                                         HH::::::H     H::::::HH                           h:::::h             
+# S:::::S             k:::::k    kkkkkkkyyyyyyy           yyyyyyy       H:::::H     H:::::H  iiiiiii    ggggggggg   gggggh::::h hhhhh       
+# S:::::S             k:::::k   k:::::k  y:::::y         y:::::y        H:::::H     H:::::H  i:::::i   g:::::::::ggg::::gh::::hh:::::hhh    
+#  S::::SSSS          k:::::k  k:::::k    y:::::y       y:::::y         H::::::HHHHH::::::H   i::::i  g:::::::::::::::::gh::::::::::::::hh  
+#   SS::::::SSSSS     k:::::k k:::::k      y:::::y     y:::::y          H:::::::::::::::::H   i::::i g::::::ggggg::::::ggh:::::::hhh::::::h 
+#     SSS::::::::SS   k::::::k:::::k        y:::::y   y:::::y           H:::::::::::::::::H   i::::i g:::::g     g:::::g h::::::h   h::::::h
+#        SSSSSS::::S  k:::::::::::k          y:::::y y:::::y            H::::::HHHHH::::::H   i::::i g:::::g     g:::::g h:::::h     h:::::h
+#             S:::::S k:::::::::::k           y:::::y:::::y             H:::::H     H:::::H   i::::i g:::::g     g:::::g h:::::h     h:::::h
+#             S:::::S k::::::k:::::k           y:::::::::y              H:::::H     H:::::H   i::::i g::::::g    g:::::g h:::::h     h:::::h
+# SSSSSSS     S:::::Sk::::::k k:::::k           y:::::::y             HH::::::H     H::::::HHi::::::ig:::::::ggggg:::::g h:::::h     h:::::h
+# S::::::SSSSSS:::::Sk::::::k  k:::::k           y:::::y              H:::::::H     H:::::::Hi::::::i g::::::::::::::::g h:::::h     h:::::h
+# S:::::::::::::::SS k::::::k   k:::::k         y:::::y               H:::::::H     H:::::::Hi::::::i  gg::::::::::::::g h:::::h     h:::::h
+#  SSSSSSSSSSSSSSS   kkkkkkkk    kkkkkkk       y:::::y                HHHHHHHHH     HHHHHHHHHiiiiiiii    gggggggg::::::g hhhhhhh     hhhhhhh
+#                                             y:::::y                                                            g:::::g                    
+#                                            y:::::y                                                 gggggg      g:::::g                    
+#                                           y:::::y                                                  g:::::gg   gg:::::g                    
+#                                          y:::::y                                                    g::::::ggg:::::::g                    
+#                                         yyyyyyy                                                      gg:::::::::::::g                     
+#                                                                                                        ggg::::::ggg                       
+#                                                                                                           gggggg                          
+#

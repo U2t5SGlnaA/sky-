@@ -1,0 +1,94 @@
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #f6f8fa;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #22272e;
+}
+
+
+.ctxt {
+  position: relative;
+  display: inline-block;
+}
+
+[data-md-color-scheme="default"] .ctxt::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(200, 200, 200, 0.85);
+  backdrop-filter: blur(2px);
+  transition: all 0.4s ease;
+  z-index: 1;
+  border-radius: 4px;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+}
+
+/* 暗色模式 */
+[data-md-color-scheme="slate"] .ctxt::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(50, 50, 50, 0.85);
+  backdrop-filter: blur(2px);
+  transition: all 0.4s ease;
+  z-index: 1;
+  border-radius: 4px;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+}
+
+.ctxt:hover::before {
+  opacity: 0;
+  transform: scale(0.98);
+}
+
+[data-md-color-scheme="default"] .ctxt::after {
+  content: 'アッカリ～ン';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 3px 6px;
+  background-color: rgba(80, 80, 80, 0.85);
+  color: #ffffff;
+  border-radius: 3px;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.3s, transform 0.2s;
+  z-index: 1;
+  font-size: 12px;
+  pointer-events: none;
+  margin-top: 3px;
+  letter-spacing: 0.02em;
+}
+
+[data-md-color-scheme="slate"] .ctxt::after {
+  content: '你知道太多了';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 3px 6px;
+  background-color: rgba(60, 60, 70, 0.9);
+  color: #f0f0f0;
+  border-radius: 3px;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.3s, transform 0.2s;
+  z-index: 1;
+  font-size: 12px;
+  pointer-events: none;
+  margin-top: 3px;
+  letter-spacing: 0.02em;
+}
+
+.ctxt:hover::after {
+  opacity: 0.9;
+  transform: translateX(-50%) translateY(2px);
+}
