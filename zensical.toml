@@ -17,15 +17,16 @@ site_description = "SkyHigh'Log..."
 site_author = "SkyHigh"
 docs_dir = "docs"
 dev_addr = "localhost:418"
-repo_name = "喵喵喵"
+repo_name = "Skye-"
 repo_url = "https://github.com/U2t5SGlnaA/sky-"
 edit_uri = "edit/main/docs/"
-copyright = "Licensed under <a href='https://creativecommons.org/licenses/by-nc-nd/4.0' target='_blank'>CC BY-NC-ND 4.0</a>.<br><a href='https://icp.gov.moe/?keyword=20241127' target='_blank'>Moe ICP 20241127</a>."
+copyright = "© 2026, <a href='https://icp.gov.moe/?keyword=20241127' target='_blank'>Moe ICP 20241127</a><br>Licensed under <a href='https://creativecommons.org/licenses/by-nc-nd/4.0' target='_blank'>CC BY-NC-ND 4.0</a>"
 extra_css = ["stylesheets/extra.css", "stylesheets/essential_audio.css"]
 extra_javascript = ["javascripts/extra.js", "javascripts/essential_audio.js"]
 
 [project.extra]
 homepage = "https://skyhigh.moe"
+generator = false
 
 [project.extra.status]
 new = "Recently added"
@@ -35,7 +36,7 @@ deprecated = "Deprecated"
 logo = "assets/img/avatar.avif"
 favicon = "assets/img/favicon.png"
 font = false
-language = "zh"
+language = "en"
 custom_dir = "overrides"
 
 features = [

@@ -79,13 +79,13 @@ title: SkyHigh
 
     ---
 
-    - 汉语、English、کوردی
-    - 笨，多任务并行禁止
-    - 喝茶，音乐，在路上
+    - 汉语，English，کوردی
+    - 喜欢喝茶，音乐，在路上
     - 吃 酸的、辣的、麻的；不喜甜
+    - 笨说是，有喜欢的猫，更多[关于](https://skyhigh.moe/about#inner){target="_blank"}
+    - "SkyHigh"：来自 ["ごはんはおかず"](https://music.youtube.com/watch?v=33DPH6pBcrY){target="_blank"}
     - 联络：**me**:material-at:**skyhigh.moe** ([**GPG**](https://skyhigh.moe/0xD256BAB4.asc))、[**Telegram**](https://t.me/moeSkyHigh){target="_blank"}
-    - "SkyHigh"：来自 ["ごはんはおかず"](https://music.youtube.com/watch?v=33DPH6pBcrY){target="_blank"}。斯盖、Skye
-    - > 历史：[**WebArchive**](https://web.archive.org/web/20211201052953/https://www.skybreezy.com/){target="_blank"}
+    - > Made with [Zensical](https://github.com/zensical/zensical){target="_blank"}
 
 
 -   :material-tea-outline:{ .lg .middle } **ずっと放課後 いつまでもティータイム**
