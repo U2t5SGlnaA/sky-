@@ -3,7 +3,14 @@ nav = [
     { "/1ndex" = "index.md" },
 
     { "Skye" = [
-        "nya/2026.md",
+        { "2026" = [
+            "nya/2026.md",
+        ] },
+        "nya/otherindex.md",
+        { "20" = [
+            "nya/2025.md",
+            "nya/2024.md",
+        ] },
     ] },
 
     { "Photo" = "https://photo.skyhigh.moe" },
