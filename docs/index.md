@@ -24,12 +24,39 @@ title: SkyHigh
 </p>
 
 
+<div class="essential_audio" 
+     data-url="/assets/soda-xxd(inst.).ogg"></div>
+
 ---
 
+<div class="grid cards" markdown>
 
-## **:fontawesome-solid-l::fontawesome-solid-i::fontawesome-solid-n::fontawesome-solid-k::fontawesome-solid-s:**
+- :material-star-shooting-outline:{ .lg .middle }**About Skye**
 
-- (｡･∀･)ﾉﾞ嗨
+    ---
+
+    
+    - 笨说是，但有喜欢的猫
+    - 喜欢喝茶，音乐，在路上
+    - 喜 酸、辣、麻的；不喜 甜
+    - 汉语，English，کوردیی ناوەندی
+    - "SkyHigh"：来自 ["ごはんはおかず"](https://music.youtube.com/watch?v=33DPH6pBcrY){target="_blank"}
+    - 联络：**me**:material-at:**skyhigh.moe** ([**GPG**](https://skyhigh.moe/0xD256BAB4.asc))、[**Telegram**](https://t.me/moeSkyHigh){target="_blank"}
+    - > Here Made with [Zensical](https://github.com/zensical/zensical){target="_blank"}
+
+
+-   :material-tea-outline:{ .lg .middle } **ずっと放課後 いつまでもティータイム**
+    
+    ---
+    
+    ![K-ON](https://mypic.skyhigh.moe/hotlink-ok/k-on.avif){ loading=lazy }
+
+</div>
+
+
+## Links
+
+- o(*≧▽≦)ツ 嗨！
 
 <div class="grid cards" markdown>
 
@@ -73,27 +100,6 @@ title: SkyHigh
 
 
 
-<div class="grid cards" markdown>
 
-- :material-star-shooting-outline:{ .lg .middle }**About Skye**
-
-    ---
-
-    - 汉语，English，کوردی
-    - 喜欢喝茶，音乐，在路上
-    - 吃 酸的、辣的、麻的；不喜甜
-    - 笨说是，有喜欢的猫，更多[关于](https://skyhigh.moe/about#inner){target="_blank"}
-    - "SkyHigh"：来自 ["ごはんはおかず"](https://music.youtube.com/watch?v=33DPH6pBcrY){target="_blank"}
-    - 联络：**me**:material-at:**skyhigh.moe** ([**GPG**](https://skyhigh.moe/0xD256BAB4.asc))、[**Telegram**](https://t.me/moeSkyHigh){target="_blank"}
-    - > Made with [Zensical](https://github.com/zensical/zensical){target="_blank"}
-
-
--   :material-tea-outline:{ .lg .middle } **ずっと放課後 いつまでもティータイム**
-    
-    ---
-    
-    ![K-ON](https://mypic.skyhigh.moe/hotlink-ok/k-on.avif){ loading=lazy }
-
-</div>
 
 <!-- - 杭州的话欢迎来找我玩，<span class="ctxt">请你吃西湖醋鱼(笑。</span> -->

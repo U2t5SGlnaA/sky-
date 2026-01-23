@@ -80,29 +80,6 @@ hide:
     </ul>
 </section>
 
-## Inner
-
-
-<div class="essential_audio" 
-     data-url="/assets/soda-salt.ogg"
-     data-preload></div>
-
-
-
-- 需求很少，一个人也能过得很好
-
-- 喜欢一种与世隔绝的状态：不干涉别人，也不被干涉；不参与、不卷入
-
-- 害怕那些需要评价、审视的活动。对期待而感到压力。更喜欢“不被包括在内”
-
-- 孤立、难以接触，当内心对接触的渴望被唤醒后，会发现自己很难和他人接近
-
-- 除非一段亲密关系能彻底放下自我与防备，否则就会想办法逃避，或者把自己从这段关系中抽离出来
-
-
-> “当我有了渴望时，就好像面对一桌盛宴却依然饥肠辘辘，我渴望得到他人拥有的感情。但是我的手伸出去，却拿不到食物，我又不能再把手收回来。”
-
-
 <script>
     document.querySelectorAll('.fav li').forEach(li => {
     const colors = ['#ffc9e0', '#b6d795', '#eeca8c', '#96cab9', '#dc9d9d', '#9fc5e8', '#c2adde'];
