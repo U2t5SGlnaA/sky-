@@ -13,6 +13,10 @@ nav = [
         ] },
     ] },
 
+    { "Erbil" = [
+        "krd/index.md",
+    ] },
+
     { "Photo" = "https://photo.skyhigh.moe" },
 
 ]
